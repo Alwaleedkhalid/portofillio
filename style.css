@@ -10,7 +10,17 @@
   display: flex;
   text-align: right;
 }
+.img-logo
+{
+  padding-top: 8%;
+}
+.img-section
+{
 
+}
+.three-img{
+  padding-left: 100%;
+}
 .img-color1
 {
   color: #02b3e4;
@@ -34,4 +44,16 @@ h2
 .p1
 {
   font-size: 20px;
+}
+.fa-5x
+{
+  padding-left: 70%;
+}
+.section-p
+{
+  padding-left: 70%;
+}
+.img-responsive
+{
+  image-orientation: 100%;
 }
