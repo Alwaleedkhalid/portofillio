@@ -36,14 +36,21 @@
   color: #7d97ad;
   font-size: 20px;
 }
+h1{
+  padding-right: 2%;
+}
 h2
 {
     padding: 8px;
     margin: 8px;
 }
+h3{
+  padding-right: 3%;
+}
 .p1
 {
   font-size: 20px;
+  margin-right: auto%;
 }
 .fa-5x
 {
@@ -56,4 +63,7 @@ h2
 .img-responsive
 {
   image-orientation: 100%;
+}
+a{
+  margin-right: auto;
 }
